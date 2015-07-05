@@ -1,0 +1,2 @@
+# UniversalLogger
+Singleton Logger
